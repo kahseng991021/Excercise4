@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Excercise4</string>
+    <string name="lbl1">Age(years)</string>
+    <string name="lbl2">Min. Basic Saving (RM)</string>
+    <string name="lbl3">Member</string>
+    <string name="t1" />
+    <string name="t3">member?</string>
+    <string name="b1">Proceed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn3">Select Date</string>
+    <string name="T5">Birth Date</string>
+
+    <string name="D1" />
+    <string name="btn2">Select date</string>
+    <string name="input" />
+</resources>
